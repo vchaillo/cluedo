@@ -1,3 +1,5 @@
+%Arbre genealogique.
+
 femme(anne).
 femme(betty).
 femme(lisa).
