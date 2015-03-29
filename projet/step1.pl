@@ -1,4 +1,4 @@
-%Arbre genealogique.
+% Arbre genealogique.
 
 femme(anne).
 femme(betty).
