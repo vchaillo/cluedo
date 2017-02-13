@@ -1,6 +1,6 @@
 #cluedo
 
-* [Subject] (https://github.com/vchaillo/cluedo/blob/master/cluedo.pdf)
+* [Sujet] (https://github.com/vchaillo/cluedo/blob/master/cluedo.pdf)
 
 =============
 ###Description
